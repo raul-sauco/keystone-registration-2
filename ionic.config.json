@@ -1,0 +1,7 @@
+{
+  "name": "Keystone Registration",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
